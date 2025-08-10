@@ -170,6 +170,19 @@ body {
     line-height: 1.6;
 }
 
+/* GitHub Link */
+.github-link {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.github-link:hover {
+    color: #764ba2;
+    text-decoration: underline;
+}
+
 /* Skills Section */
 .skills-grid {
     display: grid;
